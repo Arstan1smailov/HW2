@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Image">image</string>
+    <string name="RandomImage">random_image</string>
+    <string name="submit">submit</string>
+    <string name="success">success</string>
+    <string name="valid_url">valid url</string>
+</resources>
